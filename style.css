@@ -240,3 +240,15 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
     width: 100%;
     padding: 5px;
   }
+
+  .zoom{
+    padding: 50px;
+    background-color: green;
+    transition: transform .2s; /* Animation */
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  }
+  .zoom:hover{
+    transform: scale(1.2) /* Zoom 120% */
+  }
