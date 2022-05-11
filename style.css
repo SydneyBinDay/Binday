@@ -242,10 +242,10 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
   }
 
   .zoom{
-    padding: 50px;
+    padding: 1px;
     transition: transform .2s; /* Animation */
     margin: 0 auto;
   }
   .zoom:hover{
-    transform: scale(1.2) /* Zoom 120% */
+    transform: scale(1.1) /* Zoom 120% */
   }
