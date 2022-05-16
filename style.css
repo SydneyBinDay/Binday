@@ -249,3 +249,6 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
   .zoom:hover{
     transform: scale(1.11) /* Zoom 120% */
   }
+
+
+.BD-maroon,.BD-hover-maroon:hover{color:#702632!important;background-color:#702632!important}
